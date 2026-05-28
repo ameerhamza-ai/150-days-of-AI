@@ -2,4 +2,5 @@ University lab tasks and assignments — BS AI @ KUST. Part of #150DaysOfAI jour
 
 Adding further detial soon
 still working   
-Eid vacations
+Eid vacations  
+Will continue work after exam 
