@@ -38,7 +38,7 @@ by the end you will know:
 | **Week 1** | Variables, Type Casting, Input/Output, String Methods, Operators | Calculator App | Lab tasks coming | ✅ Done |
 | **Week 2** | if/elif/else, For Loops, While Loops, Nested Loops, Patterns | Pattern Generator | Lab tasks coming | ✅ Done |
 | **Week 3** | Functions, Scope (LEGB), Recursion, Lambda | Quiz Game | Lab tasks coming | ✅ Done |
-| **Week 4** | Lists, Tuples, Comprehensions | Grade Manager | Lab tasks coming | Coming |
+| **Week 4** | Lists, Tuples, Comprehensions | Grade Manager | Lab tasks coming | In Progress |
 
 ---
 ## University Tasks
@@ -79,7 +79,7 @@ by the end you will know:
 ---
 
 ## Stats
-- **Days Completed:** 23/150
+- **Days Completed:** 26/150
 - **Projects Built:** 3
 - **Commits:** Daily 
 
