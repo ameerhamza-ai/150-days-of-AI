@@ -38,7 +38,7 @@ by the end you will know:
 | **Week 1** | Variables, Type Casting, Input/Output, String Methods, Operators | Calculator App | Lab tasks coming | ✅ Done |
 | **Week 2** | if/elif/else, For Loops, While Loops, Nested Loops, Patterns | Pattern Generator | Lab tasks coming | ✅ Done |
 | **Week 3** | Functions, Scope (LEGB), Recursion, Lambda | Quiz Game | Lab tasks coming | ✅ Done |
-| **Week 4** | Lists, Tuples, Comprehensions | Grade Manager | Lab tasks coming | In Progress |
+| **Week 4** | Lists, Tuples, Comprehensions | Grade Manager | Lab tasks coming | ✅ Done |
 
 ---
 ## University Tasks
@@ -54,6 +54,8 @@ by the end you will know:
 | Calculator App | Week 1 | [View →](https://github.com/ameerhamza-ai/python-projects) |
 | Pattern Generator | Week 2 | [View →](https://github.com/ameerhamza-ai/python-projects) |
 | Quiz Game | Week 3 | [View →](https://github.com/ameerhamza-ai/python-projects) |
+| Student Grade Manager | Week 4 | [View →](https://github.com/ameerhamza-ai/python-projects) |
+
 ---
 
 ## Folder Structure
@@ -79,8 +81,8 @@ by the end you will know:
 ---
 
 ## Stats
-- **Days Completed:** 26/150
-- **Projects Built:** 3
+- **Days Completed:** 27/150
+- **Projects Built:** 4
 - **Commits:** Daily 
 
 
